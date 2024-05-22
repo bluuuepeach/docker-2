@@ -1,5 +1,5 @@
 print("Hello, World!")
 print("made a container")
 print("built it")
-print("loosing my mind")
+print("losing my mind")
 print("Bye, world...")
