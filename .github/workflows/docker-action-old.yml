@@ -1,4 +1,4 @@
-name: Docker Action
+name: Docker Action (old)
 
 on: [push]
 
